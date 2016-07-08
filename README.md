@@ -19,7 +19,7 @@ If you are interested in participating, please complete the following survey: [S
   * [Bash Shell](https://www.gnu.org/software/bash/): working with the file system from the command line
   * [Git/GitHub](https://github.com/): managing projects locally from the command line using Git and collaborating online with GitHub
   * [Python](https://www.python.org/): datatypes, logic, loops, functions, classes and objects
-  * [Jupyter Notebooks](http://jupyter.org/): execute code with accompanying text, markdown and $$LaTeX$$ all in the browser
+  * [Jupyter Notebooks](http://jupyter.org/): execute code with accompanying text, markdown and LaTeX all in the browser
   * [SciPy Stack](http://scipy.org/): scientific computing with [NumPy](http://www.numpy.org/), [SciPy](http://scipy.org/), [matplotlib](http://matplotlib.org/) and [pandas](http://pandas.pydata.org/)
   * [scikit-learn](http://scikit-learn.org/): machine learning in Python
 * What **scientific topics** will we study?
