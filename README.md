@@ -1,17 +1,12 @@
-## UBC Scientific Software Seminar (ubcs3)
+## UBC Scientific Software Seminar
 
-The UBC Scientific Software Seminar (ubcs3) is inspired by [Software Carpentry](http://software-carpentry.org/) and its goals are:
-
-* To help students, graduates, fellows and faculty develop software skills for science
-* To promote scientific computation, communication and collaboration at UBC and beyond
-* To promote open source scientific software development
-* To provide an inclusive, professional, harassment-free environment following Software Carpentry's [Code of Conduct](http://software-carpentry.org/conduct/)
+The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science.
 
 ### Summer 2016: Collaborative Scientific Computing in Python
 
 #### REGISTER
 
-If you are interested in participating, please complete the following survey: [ubcs3 Summer 2016 Registration](https://survey.ubc.ca/s/scientific-software-seminar-registration/)
+If you are interested in participating, please complete the following survey: [Summer 2016 Registration](https://survey.ubc.ca/s/scientific-software-seminar-registration/)
 
 #### OUTLINE
 
@@ -34,8 +29,8 @@ If you are interested in participating, please complete the following survey: [u
 * Where do we start? What are the **prerequisites**?
   * Basic calculus, linear algebra, probability and statistics
   * Basic programming experience in *any* language (in particular, familiarity with logic, loops and functions)
-  * [Web literacy](https://learning.mozilla.org/web-literacy) is assumed but no prior experience with Git/GitHub is required
-  * Experience creating, manipulating and navigating files and directories (aka folders) on your own operating system is assumed but no prior experience with the command line is required
+  * No prior experience with the command line is required
+  * No prior experience with Git/GitHub is required
 * Who is the target **audience**?
   * Everyone is invited!
   * If the outline above is at your level, perfect! Get ready to write a lot of code!
@@ -44,7 +39,7 @@ If you are interested in participating, please complete the following survey: [u
 
 #### SCHEDULE
 
-Summer 2016 will consist of six 3-hour seminars held weekly from mid-July until the end of August:
+Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until the end of August:
 
 * Week 1
   * First steps: What is a Jupyter notebook? Git? GitHub? Bash?!!
@@ -64,8 +59,3 @@ Summer 2016 will consist of six 3-hour seminars held weekly from mid-July until 
   * TBD
 * Week 6
   * TBD
-
-#### NOTES
-
-* ubcs3 is inspired by [Software Carpentry](http://software-carpentry.org/) and we will tailor SWC's [lessons](http://software-carpentry.org/lessons/) for a mathematical/statistical audience
-* The longterm vision for ubcs3 is to choose a new theme for each Summer, Fall and Winter semester focusing on a different technology
