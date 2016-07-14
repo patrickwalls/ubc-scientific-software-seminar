@@ -41,21 +41,21 @@ If you are interested in participating, please complete the following survey: [S
 
 Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until the end of August:
 
-* Week 1
+* Week 1 - Wednesday July 20 - 10am-12pm (Location TBD)
   * First steps: What is a Jupyter notebook? Git? GitHub? Bash?!!
   * Working with repositories and collaborating on GitHub
   * Bash shell commands for creating files/directories and navigating the file system
   * Python review: datatypes, logic, loops, and functions
-* Week 2
+* Week 2 - Wednesday July 27 - 10am-12pm (Locationn TDB)
   * More Bash commands
   * Work locally: Git on the command line
   * Work collaboratively: Git to GitHub and back again
   * More Python: objects and classes
-* Week 3
+* Week 3 - Wednesday August 3 - 10am-12pm (Location TBD)
   * TBD
-* Week 4
+* Week 4 - Wednesday August 10 - 10am-12pm (Location TBD)
   * TBD
-* Week 5
+* Week 5 - Wednesday August 17 - 10am-12pm (Location TBD)
   * TBD
-* Week 6
+* Week 6 - Wednesday August 24 - 10am-12pm (Location TBD)
   * TBD
