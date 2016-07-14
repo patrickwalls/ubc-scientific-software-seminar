@@ -46,7 +46,7 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * Working with repositories and collaborating on GitHub
   * Bash shell commands for creating files/directories and navigating the file system
   * Python review: datatypes, logic, loops, and functions
-* Week 2 - Wednesday July 27 - 10am-12pm (Locationn TDB)
+* Week 2 - Wednesday July 27 - 10am-12pm (Location TDB)
   * More Bash commands
   * Work locally: Git on the command line
   * Work collaboratively: Git to GitHub and back again
