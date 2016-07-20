@@ -43,9 +43,9 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
 
 * Week 1 - Wednesday July 20 - 10am-12pm - IBLC 261
   * First steps: What is a Jupyter notebook? Git? GitHub? Bash?!!
-  * Working with repositories and collaborating on GitHub
-  * Bash shell commands for creating files/directories and navigating the file system
-  * Python review: datatypes, logic, loops, and functions
+  * A tour of JupyterHub: files, folders, Jupyter notebooks, and the terminal
+  * Jupyter notebooks: writing text, markdown, LaTeX, images and links, and executing Python code all in the browser
+  * Creating repos on GitHub, cloning repos to JupyterHub, pushing and pulling from GitHub to JupyterHub and back
 * Week 2 - Wednesday July 27 - 10am-12pm - IBLC 261
   * More Bash commands
   * Work locally: Git on the command line
