@@ -45,13 +45,13 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * JupyterHub
   * Jupyter Notebooks
   * Git/GitHub
-* Week 2 - Wednesday July 27 - 10am-12pm - IBLC 261
-  * Bash commands
-  * Git on the command line
-  * Work collaboratively: Git to GitHub and back again
-  * Intro to Python: datatypes, logic, loops and functions
+* Week 2 - Wednesday July 27 - 10am-12pm - IBLC 261 [[Notes](2016-07-27-notes.ipynb)]
+  * Git/GitHub: clone, push and pull, and collaborate
+  * Bash commands for navigating the Linux file system
+  * Python datatypes: `int`, `float`, `str`, `list`, `bool`
 * Week 3 - Wednesday August 3 - 10am-12pm - IBLC 261
-  * TBD
+  * Python: logic, loops and functions
+  * More Python: classes and objects
 * Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261
   * TBD
 * Week 5 - Wednesday August 17 - 10am-12pm - IBLC 261
