@@ -50,10 +50,12 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * Bash commands for navigating the Linux file system
   * Python datatypes: `int`, `float`, `str`, `list`, `bool`
 * Week 3 - Wednesday August 3 - 10am-12pm - IBLC 261
+  * Bash scripts
   * Python: logic, loops and functions
-  * More Python: classes and objects
+  * More Python: objects and classes
 * Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261
-  * TBD
+  * Python: classes and objects
+  * NumPy, SciPy, matplotlib and pandas
 * Week 5 - Wednesday August 17 - 10am-12pm - IBLC 261
   * TBD
 * Week 6 - Wednesday August 24 - 10am-12pm - LSK 201
