@@ -49,12 +49,13 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * Git/GitHub: clone, push and pull, and collaborate
   * Bash commands for navigating the Linux file system
   * Python datatypes: `int`, `float`, `str`, `list`, `bool`
-* Week 3 - Wednesday August 3 - 10am-12pm - IBLC 261
-  * Bash scripts
+* Week 3 - Wednesday August 3 - 10am-12pm - IBLC 261 [[Notes](2016-08-03-notes/2016-08-03-notes.ipynb)]
+  * Bash commands and scripts
   * Python: logic, loops and functions
-  * More Python: objects and classes
+  * A quick intro to NumPy and matplotlib
 * Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261
-  * Scientific Computing in Python: NumPy, SciPy, matplotlib and pandas
+  * Scientific computing in Python: NumPy, SciPy, matplotlib and pandas
+  * Python objects and classes
 * Week 5 - Wednesday August 17 - 10am-12pm - IBLC 261
   * TBD
 * Week 6 - Wednesday August 24 - 10am-12pm - LSK 201
