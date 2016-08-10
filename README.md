@@ -53,10 +53,10 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * Bash commands and scripts
   * Python: logic, loops and functions
   * A quick intro to NumPy and matplotlib
-* Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261
+* Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261 [[Notes](2016-08-10-notes/2016-08-10-notes.ipynb)]
   * A tour of the SciPy stack: NumPy, SciPy, matplotlib and pandas
-  * More data analysis with pandas
 * Week 5 - Wednesday August 17 - 10am-12pm - IBLC 185
-  * TBD
+  * Python classes and objects
+  * A quick intro to scikit-learn
 * Week 6 - Wednesday August 24 - 10am-12pm - LSK 201
   * TBD
