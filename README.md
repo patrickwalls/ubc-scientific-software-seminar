@@ -4,10 +4,6 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 ### Summer 2016: Collaborative Scientific Computing in Python
 
-#### REGISTER
-
-If you are interested in participating, please complete the following survey: [Summer 2016 Registration](https://survey.ubc.ca/s/scientific-software-seminar-registration/)
-
 #### OUTLINE
 
 * What are the **learning goals**?
@@ -55,8 +51,9 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * A quick intro to NumPy and matplotlib
 * Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261 [[Notes](2016-08-10-notes/2016-08-10-notes.ipynb)]
   * A tour of the SciPy stack: NumPy, SciPy, matplotlib and pandas
-* Week 5 - Wednesday August 17 - 10am-12pm - IBLC 185
+* Week 5 - Wednesday August 17 - 10am-12pm - **IBLC 185**
+  * SciPy Example: Fitting Wind Speed Distributions to the Weibull Distribution
+  * A tour of scikit-learn (by examples)
   * Python classes and objects
-  * A quick intro to scikit-learn
-* Week 6 - Wednesday August 24 - 10am-12pm - LSK 201
+* Week 6 - Wednesday August 24 - 10am-12pm - **LSK 201**
   * TBD
