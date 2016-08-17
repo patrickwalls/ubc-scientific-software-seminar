@@ -51,9 +51,8 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
   * A quick intro to NumPy and matplotlib
 * Week 4 - Wednesday August 10 - 10am-12pm - IBLC 261 [[Notes](2016-08-10-notes/2016-08-10-notes.ipynb)]
   * A tour of the SciPy stack: NumPy, SciPy, matplotlib and pandas
-* Week 5 - Wednesday August 17 - 10am-12pm - **IBLC 185**
+* Week 5 - Wednesday August 17 - 10am-12pm - **IBLC 185** [[Notes](2016-08-17-notes.ipynb)]
   * SciPy Example: Fitting Wind Speed Distributions to the Weibull Distribution
-  * A tour of scikit-learn (by examples)
-  * Python classes and objects
+  * A tour of scikit-learn (following [example notebooks](https://github.com/GaelVaroquaux/sklearn_ensae_course) by [Gael Varoquaux](https://github.com/GaelVaroquaux))
 * Week 6 - Wednesday August 24 - 10am-12pm - **LSK 201**
   * TBD
