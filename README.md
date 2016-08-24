@@ -54,9 +54,9 @@ Summer 2016 will consist of six 2-hour seminars held weekly from mid-July until 
 * Week 5 - Wednesday August 17 - 10am-12pm - **IBLC 185** [[Notes](2016-08-17-notes.ipynb)]
   * SciPy Example: Fitting Wind Speed Distributions to the Weibull Distribution
   * A tour of scikit-learn (following [example notebooks](https://github.com/GaelVaroquaux/sklearn_ensae_course) by [Gael Varoquaux](https://github.com/GaelVaroquaux))
-* Week 6 - Wednesday August 24 - 10am-12pm - **LSK 201**
+* Week 6 - Wednesday August 24 - 10am-12pm - **LSK 201** [[Notes](2016-08-24-notes.ipynb)]
   * A basic machine learning example:
     * Digits dataset
     * Our own *k*-nearest neighbors classifier
     * Evaluating the classifier
-    * Implementing scikit-learn KNN classifier
+    * Implementing `sklearn.neighbors.KNeighborsClassifier`
